@@ -7,16 +7,6 @@
 An AI-powered application designed to enhance road safety by automatically detecting motorcycle riders without helmets, capturing their number plates, and logging the violations in real-time through a user-friendly web interface. This system is particularly relevant for improving traffic rule enforcement in cities like Pune, Maharashtra.
 
 ---
-
-## 📸 Demo
-
-*(**Action:** Replace the line below with a screenshot or GIF of your running application!)*
-
-
-*The dashboard showing live video processing on the left and violation logs on the right.*
-
----
-
 ## ✨ Key Features
 
 * **Real-time Detection:** Uses a fine-tuned YOLOv8 model to detect riders, helmets (or lack thereof), and number plates from a video feed.
