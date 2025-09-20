@@ -1,0 +1,29 @@
+#pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
+# --- Core Scientific & Image Processing ---
+numpy==1.26.4
+opencv-python==4.6.0.66
+matplotlib==3.8.2
+Pillow==10.2.0
+scikit-image==0.22.0
+scipy==1.13.0
+transformers==4.46.3
+
+# --- Computer Vision & Object Detection ---
+ultralytics==8.2.2
+cvzone==1.6.1
+
+# --- OCR Libraries (CPU) ---
+paddlepaddle==2.6.1
+paddleocr==2.7.3
+easyocr==1.7.1
+
+# --- Utilities ---
+PyYAML>=6.0
+tqdm>=4.64.0
+requests>=2.25.0
+pandas>=2.0.0
+
+
+
+opencv-python-headless
+streamlit
